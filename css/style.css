@@ -1,0 +1,31 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+background-image:url(../img/milad-fakurian-nY14Fs8pxT8-unsplash.jpg);
+background-size: cover;     
+}
+head{
+    background: rgb(0, 0, 0);
+    width: 100%;
+    height: 80px;
+    max-height: 100px;
+}
+.icon img{
+    width: 96px;
+    height: 94px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.icon{
+    float: left;
+}
+.link{
+    float: left;
+}
+.link a{
+    color: lightcoral;
+    text-decoration: none;
+}
+
