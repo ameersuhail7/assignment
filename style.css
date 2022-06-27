@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: o;
+}
+.mainclass{
+    width: 100%;
+    height: 800px;
+    background: url(./img/HD\ wallpaper_\ Stark\ Industries\ wallpaper\,\ Marvel\ Comics\,\ movies\,\ Marvel\ Heroes.jpg);
+    BACKGROUND-SIZE:cover;
+}
+.head{
+    width: 100;
+    height: 100px;
+    background-color: rgb(105, 105, 105);
+    /* background: url(./wp2301613-anime-4k-wallpapers.jpgs); */
+}
+head{
+    background-size: covers;
+}
+.icon img{
+    width: 10%;
+    height: 100px;
+    float: left;
+}
+body{
+    background-size: cover;
+}
+.link a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 10px;
+    border: 1px solid black;
+    float: left;
+    padding: 5px;
+}
+.link a:hover{
+    background: burlywood;
+}
+h1{
+    color: rgb(255, 0, 0);
+    margin-left: 550px;
+    margin-top: -50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 39px;
+
+}
+p{
+    color: rgb(217, 217, 255);
+}
+.login{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    /* margin: 1px; */
+    border: solid rgb(0, 0, 0);
+    float: right;
+    padding: 5px;
+}
+
+.tab{
+    color: floralwhite;
+    width: 23%;
+    height: 200px;
+    background-color: rgb(24, 24, 24);
+    padding: 5px;
+    margin-bottom:15px;
+
+}
+.tab2{
+    color: floralwhite;
+    width: 23%;
+    height: 150px;
+    background-color: rgb(24, 24, 24);
+    padding: 5px;
+    margin-top: -100px;
+    margin-left: 350px;
+}
+.tab3{
+    color: floralwhite;
+    width: 23%;
+    height: 250px;
+    background-color: rgb(24, 24, 24);
+    padding: 5px;
+    margin-top: -308px;
+    margin-left: 685px;
+}
+.tab4{
+    color: floralwhite;
+    width: 23%;
+    height: 280px;
+    background-color: rgb(24, 24, 24);
+    padding: 5px;
+    margin-top: -339px;
+    margin-left: 1022px;
+}
+.footer{
+    width: 100%;
+    height: 50px;
+    /* margin-bottom: 800px; */
+    margin-top: 190px;
+    background-color: lightsalmon;
+}
+footer{
+    align-items: center;
+}
+footer h3{
+    margin-left:45%;
+    margin-bottom:0px;
+}
+
